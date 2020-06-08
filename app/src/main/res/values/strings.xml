@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FileDownload</string>
+
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="cancel">Cancel</string>
+    <string name="download_error">Download Error</string>
+    <string name="download_complete">Download Completed</string>
+    <string name="storage_permission">FileDownload requires storage permission.</string>
+
+    <!-- service actions -->
+    <string name="action_pause">Action Pause</string>
+    <string name="action_resume">Action Resume</string>
+    <string name="action_cancel">Action Cancel</string>
+</resources>
